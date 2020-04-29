@@ -1,4 +1,5 @@
 ## 위장
+https://programmers.co.kr/learn/courses/30/lessons/42578
 
 ### 문제풀이 
 - (옷 category갯수 * category 갯수) 이런식으로 경우의 수를 구하면 된다고 생각하여 문제를 풀었으나 오답
